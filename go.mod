@@ -32,4 +32,4 @@ require (
 	modernc.org/memory v1.12.1 // indirect
 )
 
-replace github.com/malice-plugins/pkgs => github.com/rufftruffles/malice-plugins v1.0.1
+replace github.com/malice-plugins/pkgs => github.com/rufftruffles/malice-plugins v1.0.2
