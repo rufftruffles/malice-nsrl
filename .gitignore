@@ -1,0 +1,15 @@
+# Binaries
+/nsrl
+/lookup
+*.exe
+*.test
+*.out
+
+# Go workspace
+vendor/
+*.swp
+.DS_Store
+
+# Local RDSv3 database (bundled into the image at build time, not in git)
+*.db
+*.db-journal
